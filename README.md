@@ -1,1 +1,2 @@
 # EmotionDiary
+### React - native & typeScript
